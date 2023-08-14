@@ -1,0 +1,1 @@
+# StaticLibrary_EmailChecker
